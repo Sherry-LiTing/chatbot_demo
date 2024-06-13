@@ -1,0 +1,211 @@
+companies_info = [
+    {
+        "company_name": "Microsoft Japan",
+        "position_info": "Various positions in software development, cloud computing, and AI.",
+        "position_requirements": "Bachelor's degree in Computer Science or related field, experience with relevant technologies.",
+        "salary_range": "6,000,000 - 12,000,000 JPY per year",
+        "company_info": "Microsoft Japan is a leading technology company providing software, services, devices, and solutions.",
+        "business_content": "Software development, cloud services, AI solutions.",
+        "homepage": "https://www.microsoft.com/ja-jp"
+    },
+    {
+        "company_name": "Google Japan",
+        "position_info": "Roles in software engineering, data science, product management, and more.",
+        "position_requirements": "Bachelor's or Master's degree in relevant fields, strong coding skills.",
+        "salary_range": "7,000,000 - 15,000,000 JPY per year",
+        "company_info": "Google Japan focuses on internet-related services and products.",
+        "business_content": "Search engine, advertising, cloud computing, software, and hardware.",
+        "homepage": "https://about.google/intl/ja_jp/"
+    },
+    {
+        "company_name": "Apple Japan",
+        "position_info": "Opportunities in hardware engineering, software development, and retail.",
+        "position_requirements": "Degree in Engineering, Computer Science or relevant field, experience in design and development.",
+        "salary_range": "6,500,000 - 14,000,000 JPY per year",
+        "company_info": "Apple Japan designs and manufactures consumer electronics and software.",
+        "business_content": "Smartphones, tablets, computers, software, and services.",
+        "homepage": "https://www.apple.com/jp/"
+    },
+    {
+        "company_name": "Amazon Japan",
+        "position_info": "Positions in logistics, cloud computing, software development, and sales.",
+        "position_requirements": "Bachelor's degree, experience in logistics or software development, strong problem-solving skills.",
+        "salary_range": "5,000,000 - 13,000,000 JPY per year",
+        "company_info": "Amazon Japan is a global e-commerce and cloud computing company.",
+        "business_content": "Online retail, cloud computing services (AWS), AI, and logistics.",
+        "homepage": "https://www.amazon.co.jp/"
+    },
+    {
+        "company_name": "Facebook Japan",
+        "position_info": "Roles in social media management, software engineering, and data analysis.",
+        "position_requirements": "Degree in relevant fields, experience with social media platforms, analytical skills.",
+        "salary_range": "6,500,000 - 13,000,000 JPY per year",
+        "company_info": "Facebook Japan operates the social networking site and associated services.",
+        "business_content": "Social networking, advertising, virtual reality.",
+        "homepage": "https://ja-jp.facebook.com/"
+    },
+    {
+        "company_name": "Salesforce Japan",
+        "position_info": "Opportunities in customer relationship management, software development, and technical support.",
+        "position_requirements": "Bachelor's degree, experience in CRM or software development, excellent communication skills.",
+        "salary_range": "6,000,000 - 12,000,000 JPY per year",
+        "company_info": "Salesforce Japan is a leading CRM and cloud computing company.",
+        "business_content": "CRM software, cloud services, enterprise software.",
+        "homepage": "https://www.salesforce.com/jp/"
+    },
+    {
+        "company_name": "Oracle Japan",
+        "position_info": "Roles in database management, cloud solutions, and enterprise software.",
+        "position_requirements": "Bachelor's degree, experience with database management or cloud solutions.",
+        "salary_range": "6,000,000 - 13,000,000 JPY per year",
+        "company_info": "Oracle Japan provides database software and technology, cloud solutions, and enterprise software.",
+        "business_content": "Database management, cloud computing, enterprise software.",
+        "homepage": "https://www.oracle.com/jp/"
+    },
+    {
+        "company_name": "IBM Japan",
+        "position_info": "Positions in AI, cloud computing, and consulting services.",
+        "position_requirements": "Bachelor's or Master's degree, experience in AI or cloud computing, consulting experience.",
+        "salary_range": "6,500,000 - 14,000,000 JPY per year",
+        "company_info": "IBM Japan offers IT services, hardware, and software solutions.",
+        "business_content": "Cloud computing, AI, consulting, hardware.",
+        "homepage": "https://www.ibm.com/jp-ja"
+    },
+    {
+        "company_name": "SAP Japan",
+        "position_info": "Opportunities in ERP solutions, software development, and consulting.",
+        "position_requirements": "Bachelor's degree, experience in ERP solutions or consulting.",
+        "salary_range": "6,000,000 - 13,000,000 JPY per year",
+        "company_info": "SAP Japan specializes in enterprise software to manage business operations and customer relations.",
+        "business_content": "ERP software, cloud solutions, business management software.",
+        "homepage": "https://www.sap.com/japan/index.html"
+    },
+    {
+        "company_name": "Cisco Systems Japan",
+        "position_info": "Roles in networking, cybersecurity, and software engineering.",
+        "position_requirements": "Bachelor's degree, experience in networking or cybersecurity.",
+        "salary_range": "6,000,000 - 12,000,000 JPY per year",
+        "company_info": "Cisco Systems Japan provides networking hardware, software, and telecommunications equipment.",
+        "business_content": "Networking, cybersecurity, telecommunications.",
+        "homepage": "https://www.cisco.com/c/ja_jp/index.html"
+    },
+    {
+        "company_name": "Dell Technologies Japan",
+        "position_info": "Positions in hardware engineering, IT consulting, and software development.",
+        "position_requirements": "Bachelor's degree, experience in hardware engineering or IT consulting.",
+        "salary_range": "6,000,000 - 12,000,000 JPY per year",
+        "company_info": "Dell Technologies Japan offers computers, related products, and IT services.",
+        "business_content": "Computers, IT services, software solutions.",
+        "homepage": "https://www.dell.com/ja-jp"
+    },
+    {
+        "company_name": "Accenture Japan",
+        "position_info": "Opportunities in consulting, technology services, and outsourcing.",
+        "position_requirements": "Bachelor's degree, consulting experience, strong problem-solving skills.",
+        "salary_range": "6,000,000 - 14,000,000 JPY per year",
+        "company_info": "Accenture Japan is a global professional services company providing a range of services and solutions.",
+        "business_content": "Consulting, digital, technology, and operations services.",
+        "homepage": "https://www.accenture.com/jp-ja"
+    },
+    {
+        "company_name": "PwC Japan",
+        "position_info": "Roles in auditing, consulting, and tax services.",
+        "position_requirements": "Bachelor's degree, experience in auditing or tax services.",
+        "salary_range": "5,500,000 - 12,000,000 JPY per year",
+        "company_info": "PwC Japan provides audit, assurance, consulting, and tax services.",
+        "business_content": "Audit, assurance, consulting, and tax services.",
+        "homepage": "https://www.pwc.com/jp"
+    },
+    {
+        "company_name": "Deloitte Tohmatsu",
+        "position_info": "Opportunities in auditing, consulting, and financial advisory.",
+        "position_requirements": "Bachelor's degree, experience in auditing or financial advisory.",
+        "salary_range": "5,500,000 - 12,000,000 JPY per year",
+        "company_info": "Deloitte Tohmatsu offers audit, consulting, tax, and advisory services.",
+        "business_content": "Audit, consulting, tax, and advisory services.",
+        "homepage": "https://www2.deloitte.com/jp/en.html"
+    },
+    {
+        "company_name": "KPMG Japan",
+        "position_info": "Roles in auditing, advisory, and tax services.",
+        "position_requirements": "Bachelor's degree, experience in auditing or advisory services.",
+        "salary_range": "5,500,000 - 12,000,000 JPY per year",
+        "company_info": "KPMG Japan provides audit, tax, and advisory services.",
+        "business_content": "Audit, tax, and advisory services.",
+        "homepage": "https://home.kpmg/jp/en/home.html"
+    },
+    {
+        "company_name": "EY Japan",
+        "position_info": "Opportunities in auditing, consulting, and advisory services.",
+        "position_requirements": "Bachelor's degree, experience in auditing or consulting.",
+        "salary_range": "5,500,000 - 12,000,000 JPY per year",
+        "company_info": "EY Japan offers audit, consulting, advisory, and tax services.",
+        "business_content": "Audit, consulting, advisory, and tax services.",
+        "homepage": "https://www.eyjapan.jp/"
+    },
+    {
+        "company_name": "Tencent Japan",
+        "position_info": "Roles in software development, gaming, and cloud services.",
+        "company_info": "Tencent Japan is a leading provider of internet-related services and products.",
+        "business_content": "Internet services, gaming, cloud computing.",
+        "homepage": "https://www.tencent.co.jp/"
+    },
+    {
+        "company_name": "Baidu Japan",
+        "position_info": "Opportunities in AI, software development, and internet services.",
+        "company_info": "Baidu Japan focuses on internet-related services and AI technology.",
+        "business_content": "Internet services, AI technology.",
+        "homepage": "http://www.baidu.jp/"
+    },
+    {
+        "company_name": "Alibaba Japan",
+        "position_info": "Roles in e-commerce, cloud computing, and digital payment services.",
+        "company_info": "Alibaba Japan provides e-commerce, cloud computing, and digital payment solutions.",
+        "business_content": "E-commerce, cloud computing, digital payment solutions.",
+        "homepage": "https://www.alibaba.com/countrysearch/JP/suppliers.html"
+    },
+    {
+        "company_name": "NVIDIA Japan",
+        "position_info": "Opportunities in graphics processing, AI, and software development.",
+        "company_info": "NVIDIA Japan specializes in graphics processing units and AI technology.",
+        "business_content": "Graphics processing, AI technology, software solutions.",
+        "homepage": "https://www.nvidia.com/ja-jp/"
+    },
+    {
+        "company_name": "Uber Japan",
+        "position_info": "Roles in ride-sharing services, software development, and logistics.",
+        "company_info": "Uber Japan provides ride-sharing, food delivery, and logistics services.",
+        "business_content": "Ride-sharing, food delivery, logistics.",
+        "homepage": "https://www.uber.com/jp/ja/"
+    },
+    {
+        "company_name": "LinkedIn Japan",
+        "position_info": "Opportunities in professional networking, sales, and software development.",
+        "company_info": "LinkedIn Japan operates a professional networking platform.",
+        "business_content": "Professional networking, job search, sales solutions.",
+        "homepage": "https://www.linkedin.com/company/linkedin/"
+    },
+    {
+        "company_name": "Twitter Japan",
+        "position_info": "Roles in social media management, software development, and data analysis.",
+        "company_info": "Twitter Japan operates the social networking platform.",
+        "business_content": "Social networking, advertising.",
+        "homepage": "https://twitter.com/TwitterJP"
+    },
+    {
+        "company_name": "Netflix Japan",
+        "position_info": "Opportunities in content creation, software development, and marketing.",
+        "company_info": "Netflix Japan provides streaming services for movies and TV series.",
+        "business_content": "Streaming services, content creation, marketing.",
+        "homepage": "https://www.netflix.com/jp/"
+    },
+    {
+        "company_name": "Spotify Japan",
+        "position_info": "Roles in music streaming, software development, and marketing.",
+        "company_info": "Spotify Japan offers music streaming services.",
+        "business_content": "Music streaming, podcast services.",
+        "homepage": "https://www.spotify.com/jp/"
+    }
+]
+
+

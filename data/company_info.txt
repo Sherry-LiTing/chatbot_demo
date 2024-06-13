@@ -1,0 +1,331 @@
+company_name: Sony Group Corporation
+japanese_name: ソニーグループ株式会社
+information: 
+    corporate_information: Sony is a multinational conglomerate corporation headquartered in Tokyo.
+    recruitment_information: Various positions in electronics gaming entertainment and financial services.
+    business_overview: Electronics gaming entertainment financial services.
+    establishment_year: 1946
+    homepage_link: https://www.sony.com
+
+company_name: Keyence Corporation
+japanese_name: キーエンス株式会社
+information: 
+    corporate_information: Keyence is a global leader in automation and sensors.
+    recruitment_information: Positions in engineering sales and research.
+    business_overview: Automation sensors and industrial automation systems.
+    establishment_year: 1974
+    homepage_link: https://www.keyence.com
+
+company_name: Tokyo Electron Ltd
+japanese_name: 東京エレクトロン株式会社
+information: 
+    corporate_information: Tokyo Electron is a leading supplier of innovative semiconductor and flat panel display production equipment.
+    recruitment_information: Engineering research and sales roles.
+    business_overview: Semiconductor and flat panel display production equipment.
+    establishment_year: 1963
+    homepage_link: https://www.tel.com
+
+company_name: Murata Manufacturing Co. Ltd.
+japanese_name: 村田製作所
+information: 
+    corporate_information: Murata Manufacturing is a leading innovator in electronics and components.
+    recruitment_information: Engineering manufacturing and sales positions.
+    business_overview: Electronic components and devices.
+    establishment_year: 1944
+    homepage_link: https://www.murata.com
+
+company_name: Renesas Electronics Corporation
+japanese_name: ルネサスエレクトロニクス株式会社
+information: 
+    corporate_information: Renesas is a premier supplier of advanced semiconductor solutions.
+    recruitment_information: Opportunities in semiconductor design and engineering.
+    business_overview: Semiconductors and microcontrollers.
+    establishment_year: 2010
+    homepage_link: https://www.renesas.com
+
+company_name: Fujitsu Ltd
+japanese_name: 富士通株式会社
+information: 
+    corporate_information: Fujitsu is a global information and communication technology company.
+    recruitment_information: Roles in IT services consulting and technology development.
+    business_overview: ICT products and services.
+    establishment_year: 1935
+    homepage_link: https://www.fujitsu.com
+
+company_name: Canon 
+japanese_name: キヤノン株式会社
+information: 
+    corporate_information: Canon is a multinational corporation specializing in imaging and optical products.
+    recruitment_information: Positions in R&D engineering and marketing.
+    business_overview: Cameras camcorders printers and medical equipment.
+    establishment_year: 1937
+    homepage_link: https://global.canon
+
+company_name: Advantest Corporation
+japanese_name: アドバンテスト株式会社
+information: 
+    corporate_information: Advantest is a leading manufacturer of automatic test equipment for the semiconductor industry.
+    recruitment_information: Engineering and technical roles.
+    business_overview: Semiconductor testing and measuring instruments.
+    establishment_year: 1954
+    homepage_link: https://www.advantest.com
+
+company_name: Panasonic Corporation
+japanese_name: パナソニック株式会社
+information: 
+    corporate_information: Panasonic is a multinational electronics corporation.
+    recruitment_information: Roles in R&D manufacturing and sales.
+    business_overview: Consumer electronics housing automotive and B2B solutions.
+    establishment_year: 1918
+    homepage_link: https://www.panasonic.com
+
+company_name: Lasertec Corporation
+japanese_name: レーザーテック株式会社
+information: 
+    corporate_information: Lasertec is a leading provider of advanced laser equipment for semiconductor and other industries.
+    recruitment_information: Engineering and research positions.
+    business_overview: Laser inspection and measuring systems.
+    establishment_year: 1960
+    homepage_link: https://www.lasertec.co.jp
+
+company_name: Kyocera Corporation
+japanese_name: 京セラ株式会社
+information: 
+    corporate_information: Kyocera is a multinational electronics and ceramics manufacturer.
+    recruitment_information: Positions in engineering manufacturing and sales.
+    business_overview: Ceramics electronics and telecommunications equipment.
+    establishment_year: 1959
+    homepage_link: https://global.kyocera.com
+
+company_name: NTT Data Corporation
+japanese_name: 株式会社エヌ・ティ・ティ・データ
+information: 
+    corporate_information: NTT Data is a global IT service provider.
+    recruitment_information: Opportunities in IT consulting services and solutions.
+    business_overview: IT services and solutions.
+    establishment_year: 1988
+    homepage_link: https://www.nttdata.com
+
+company_name: TDK Corporation
+japanese_name: TDK株式会社
+information: 
+    corporate_information: TDK is a leading electronics company specializing in electronic components.
+    recruitment_information: Engineering manufacturing and sales roles.
+    business_overview: Electronic components and devices.
+    establishment_year: 1935
+    homepage_link: https://www.tdk.com
+
+company_name: Nomura Research Institute Ltd.
+japanese_name: 野村総合研究所
+information: 
+    corporate_information: NRI is a leading provider of consulting services and systems solutions.
+    recruitment_information: Consulting IT and research roles.
+    business_overview: Consulting and IT solutions.
+    establishment_year: 1965
+    homepage_link: https://www.nri.com
+
+company_name: NEC Corporation
+japanese_name: 日本電気株式会社
+information: 
+    corporate_information: NEC is a multinational provider of IT services and products.
+    recruitment_information: Roles in IT engineering and sales.
+    business_overview: IT services network solutions and electronics.
+    establishment_year: 1899
+    homepage_link: https://www.nec.com
+
+company_name: OBIC Co. Ltd.
+japanese_name: 株式会社オービック
+information: 
+    corporate_information: OBIC provides integrated business software and services.
+    recruitment_information: Software development and IT consulting roles.
+    business_overview: Business software and IT services.
+    establishment_year: 1968
+    homepage_link: https://www.obic.co.jp
+
+company_name: Oracle Corporation Japan
+japanese_name: 日本オラクル株式会社
+information: 
+    corporate_information: Oracle Japan offers a comprehensive and fully integrated stack of cloud applications and platform services.
+    recruitment_information: Roles in cloud services software development and sales.
+    business_overview: Cloud applications platform services and database solutions.
+    establishment_year: 1985
+    homepage_link: https://www.oracle.com/jp
+
+company_name: SCSK Corporation
+japanese_name: 株式会社SCSK
+information: 
+    corporate_information: SCSK provides a full line of IT services from system integration to IT infrastructure IT management and BPO.
+    recruitment_information: Opportunities in IT consulting system integration and IT services.
+    business_overview: IT services system integration and BPO.
+    establishment_year: 1969
+    homepage_link: https://www.scsk.jp
+
+company_name: DigiSmiths.com
+information: 
+    corporate_information: DigiSmiths.com provides digital solutions and services.
+    recruitment_information: Opportunities in web development and digital marketing.
+    business_overview: Digital solutions and marketing services.
+    establishment_year: 2015
+    homepage_link: https://www.digismiths.com
+
+company_name: Custom Media KK
+information: 
+    corporate_information: Custom Media KK is a bilingual digital marketing and creative agency.
+    recruitment_information: Roles in marketing design and project management.
+    business_overview: Digital marketing creative services and bilingual content.
+    establishment_year: 2008
+    homepage_link: https://www.custom-media.com
+
+company_name: Ekotek
+information: 
+    corporate_information: Ekotek specializes in software and blockchain development.
+    recruitment_information: Positions in software engineering and blockchain technology.
+    business_overview: Software development and blockchain solutions.
+    establishment_year: 2012
+    homepage_link: https://www.ekotek.com
+
+company_name: IT-Deutschland Global Business Solutions 株式会社 (ITD-GBS Tokyo)
+information: 
+    corporate_information: ITD-GBS Tokyo offers digital transformation security and compliance solutions.
+    recruitment_information: Opportunities in IT consulting and cybersecurity.
+    business_overview: Digital transformation security and compliance.
+    establishment_year: 2005
+    homepage_link: https://www.itd-gbs.com
+
+company_name: WONDERHOODS
+information: 
+    corporate_information: WONDERHOODS is a marketing communications agency.
+    recruitment_information: Positions in marketing PR and content creation.
+    business_overview: Marketing communications and public relations.
+    establishment_year: 2010
+    homepage_link: https://www.wonderhoods.com
+
+company_name: Mobvista
+information: 
+    corporate_information: Mobvista provides solutions for app growth and user acquisition.
+    recruitment_information: Roles in digital marketing and user acquisition.
+    business_overview: App growth solutions and digital marketing.
+    establishment_year: 2013
+    homepage_link: https://www.mobvista.com
+
+company_name: AMELA Technology
+information: 
+    corporate_information: AMELA Technology specializes in software development and IT services.
+    recruitment_information: Positions in software engineering and IT support.
+    business_overview: Software development and IT services.
+    establishment_year: 2015
+    homepage_link: https://www.amela.com
+
+company_name: X-CIEL CONSULTING PRIVATE LIMITED
+information: 
+    corporate_information: X-CIEL Consulting offers business consulting and market research services.
+    recruitment_information: Opportunities in business consulting and research.
+    business_overview: Business consulting and market research.
+    establishment_year: 2010
+    homepage_link: https://www.x-ciel.com
+
+company_name: SHIFT ASIA
+information: 
+    corporate_information: SHIFT ASIA provides quality assurance and software testing services.
+    recruitment_information: Positions in software testing and quality assurance.
+    business_overview: Quality assurance and software testing.
+    establishment_year: 2015
+    homepage_link: https://www.shift-asia.com
+
+company_name: Linkx
+information: 
+    corporate_information: Linkx is a digital platform provider specializing in AI and machine learning.
+    recruitment_information: Opportunities in AI research and development.
+    business_overview: AI and machine learning solutions.
+    establishment_year: 2018
+    homepage_link: https://www.linkx.com
+
+company_name: SmartNews 
+information: 
+    corporate_information: SmartNews is a news aggregation app using AI for personalized content.
+    recruitment_information: Roles in software development and data science.
+    business_overview: News aggregation and personalized content.
+    establishment_year: 2012
+    homepage_link: https://www.smartnews.com
+
+company_name: BizReach 
+information: 
+    corporate_information: BizReach is an online job-matching platform for professionals.
+    recruitment_information: Positions in software engineering and recruitment.
+    business_overview: Online job-matching and recruitment services.
+    establishment_year: 2009
+    homepage_link: https://www.bizreach.jp
+
+company_name: International Business Machines Corporation (IBM)
+information: 
+    corporate_information: IBM is a global technology and consulting company.
+    recruitment_information: Opportunities in consulting IT services and research.
+    business_overview: Technology and consulting services.
+    establishment_year: 1911
+    homepage_link: https://www.ibm.com
+
+company_name: Microsoft Corporation
+information: 
+    corporate_information: Microsoft is a global leader in software services devices and solutions.
+    recruitment_information: Roles in software development cloud services and IT support.
+    business_overview: Software cloud services and devices.
+    establishment_year: 1975
+    homepage_link: https://www.microsoft.com
+
+company_name: Amazon Web Services  (AWS)
+information: 
+    corporate_information: AWS provides on-demand cloud computing platforms and APIs.
+    recruitment_information: Opportunities in cloud services and IT support.
+    business_overview: Cloud computing platforms and services.
+    establishment_year: 2006
+    homepage_link: https://aws.amazon.com
+
+company_name: Salesforce Japan
+information: 
+    corporate_information: Salesforce Japan offers CRM and cloud-based software solutions.
+    recruitment_information: Roles in software development and customer support.
+    business_overview: CRM and cloud-based software solutions.
+    establishment_year: 1999
+    homepage_link: https://www.salesforce.com/jp
+
+company_name: PayPal Holdings 
+information: 
+    corporate_information: PayPal provides online payment systems and digital wallets.
+    recruitment_information: Positions in software development and customer support.
+    business_overview: Online payment systems and digital wallets.
+    establishment_year: 1998
+    homepage_link: https://www.paypal.com
+
+company_name: Spotify Technology S.A.
+information: 
+    corporate_information: Spotify is a digital music service that gives you access to millions of songs.
+    recruitment_information: Roles in software development and data science.
+    business_overview: Digital music streaming service.
+    establishment_year: 2006
+    homepage_link: https://www.spotify.com
+
+company_name: Netflix 
+information: 
+    corporate_information: Netflix is a streaming service that offers a wide variety of award-winning TV shows movies anime documentaries and more.
+    recruitment_information: Positions in software development and content creation.
+    business_overview: Streaming entertainment service.
+    establishment_year: 1997
+    homepage_link: https://www.netflix.com
+
+company_name: DXC Technology
+information: 
+    corporate_information: DXC Technology provides digital transformation and IT services.
+    recruitment_information: Opportunities in IT consulting and digital transformation.
+    JD:Generative AI consultant, engineer
+    business_overview: Digital transformation and IT services.
+    establishment_year: 2017
+    homepage_link: https://www.dxc.com
+
+company_name: TCK
+information: 
+    corporate_information: TCK offers IT solutions and services for various industries.
+    recruitment_information: Roles in IT consulting and software development.
+    business_overview: IT solutions and services.
+    establishment_year: 2000
+    homepage_link: https://www.tck.com
+
