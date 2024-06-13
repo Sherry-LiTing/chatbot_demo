@@ -14,7 +14,6 @@ pip install langchain_openai
 ```python
 import os
 
-os.environ['OPENAI_API_KEY'] = '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'
 ```
 
 ### LLM宣言

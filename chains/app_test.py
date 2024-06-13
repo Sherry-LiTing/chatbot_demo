@@ -1,7 +1,6 @@
 import os
 import json
 
-os.environ['OPENAI_API_KEY'] = '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'
 
 #LLM宣言
 from langchain.chains.llm import LLMChain
